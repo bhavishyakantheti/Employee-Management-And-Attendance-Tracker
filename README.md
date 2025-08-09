@@ -30,5 +30,5 @@ This project is a database system designed to manage employee data and attendanc
 - SQL scripts for creating the tables (employees, roles, departments, attendance).
 - Mock data for populating the tables.
 - Over 30 queries for generating attendance insights.
--SQL triggers for handling attendance status automatically.
--Functions and aggregated reports for calculating work hours.
+- SQL triggers for handling attendance status automatically.
+- Functions and aggregated reports for calculating work hours.
