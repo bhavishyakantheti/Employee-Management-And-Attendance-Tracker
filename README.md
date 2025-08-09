@@ -18,8 +18,8 @@ This project is a database system designed to manage employee data and attendanc
 
 ## Data Population:
 
--Tables were initially populated with over 200 employee records using Mockaroo.
--A PL/SQL block with DBMS_RANDOM was used to generate over 1750 realistic attendance records for a week.
+- Tables were initially populated with over 200 employee records using Mockaroo.
+- A PL/SQL block with DBMS_RANDOM was used to generate over 1750 realistic attendance records for a week.
 
 ## Technologies Used
 
